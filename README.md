@@ -1,0 +1,1 @@
+a windows application written in golang which allows you to see all the devices on a network, monitor their network traffic, ARP Spoof them, and block them from sending or recieving data from outside of the LAN.
